@@ -89,3 +89,7 @@ The sharing principle of these references here is for research. If any authors d
 * <[Bandit based monte-carlo planning](https://link.springer.com/content/pdf/10.1007/11871842_29.pdf)> by Levente Kocsis and Csaba Szepesvári, 2006
 
 ## MARL exploration
+
+* <[CLEANing the reward: counterfactual actions to remove exploratory action noise in multiagent learning](http://irll.eecs.wsu.edu/wp-content/papercite-data/pdf/2014iat-holmesparker.pdf)> by HolmesParker C, Taylor M E, Agogino A, et al. AAMAS, 2014.
+
+* <[Classes of multiagent q-learning dynamics with epsilon-greedy exploration](http://icml2010.haifa.il.ibm.com/papers/191.pdf)> by Wunder M, Littman M L, Babes M. ICML, 2010.
