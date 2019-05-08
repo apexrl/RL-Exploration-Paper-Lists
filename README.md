@@ -10,9 +10,9 @@ In the early stage, most exploration study focus on the sample efficiency of spe
 
 Recently, most DRL exploration researches are focus on sparse reward settings and the target is a little different with the former studies, however we still classify those methods based on their methodology.
 
-Many learning algorithm also consider the problem od efficient exploration so that we also contain such work.
+Many learning algorithm also consider the problem of efficient exploration so that we also contain such work.
 
-Papers are sorted by time and classification. Any suggestions and pull requests are welcome.
+Exploration is a big topic so the paper is just a scratch. Collected papers are sorted by time and classification. Any suggestions and pull requests are welcome.
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me (Email: ericliuof97 [AT] gmail.com).
 
@@ -76,6 +76,8 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Prediction Error based methods
 
+* <[Exploration by random network distillation](https://arxiv.org/pdf/1810.12894.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)> by Burda, Yuri and Edwards, Harrison and Storkey, Amos and Klimov, Oleg, 2018.
+
 * <[Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/pdf/1808.04355)> by Burda, Yuri and Edwards, Harri and Pathak, Deepak and Storkey, Amos and Darrell, Trevor and Efros, Alexei A, 2018.
 
 * <[Curiosity-driven exploration by self-supervised prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf)> by Pathak, Deepak and Agrawal, Pulkit and Efros, Alexei A and Darrell, Trevor, 2017.
@@ -85,6 +87,12 @@ The sharing principle of these references here is for research. If any authors d
 * <[Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/pdf/1901.09018)> by Du, Simon S and Krishnamurthy, Akshay and Jiang, Nan and Agarwal, Alekh and Dudik, Miroslav and Langford, John, 2019.
 
 * <[Parameter Space Noise for Exploration](https://arxiv.org/pdf/1706.01905)> by Plappert, Matthias and Houthooft, Rein and Dhariwal, Prafulla and Sidor, Szymon and Chen, Richard Y and Chen, Xi and Asfour, Tamim and Abbeel, Pieter and Andrychowicz, Marcin, 2018.
+
+* <[Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor](https://arxiv.org/pdf/1801.01290)> by Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey, 2018.
+
+* <[Reinforcement learning with deep energy-based policies](https://arxiv.org/pdf/1702.08165)> by Haarnoja, Tuomas and Tang, Haoran and Abbeel, Pieter and Levine, Sergey, 2017.
+
+* <[Taming the noise in reinforcement learning via soft updates](https://arxiv.org/pdf/1512.08562)> by Fox, Roy and Pakman, Ari and Tishby, Naftali, 2015.
 
 ### Search Exploration
 
