@@ -18,6 +18,25 @@ The sharing principle of these references here is for research. If any authors d
 
 ## MAB exploration
 
+### Decaying parameter
+
+* <[A contextual-bandit algorithm for mobile context-aware recommender system]()> by Djallel Bouneffouf, Amel Bouzeghoub, and Alda Lopes Gançarski, 2012.
+
+* <[Value-difference based exploration: adap- tive control between epsilon-greedy and softmax()](Michel Tokic and Günther Palm)>, 2011.
+
+* <[Adaptive ε-greedy exploration in reinforcement learning based on value differences](http://www.academia.edu/download/30819323/AdaptiveEpsilonGreedyExploration.pdf)> by Michel Tokic, 2010.
+
+
+* <[Finite-time regret bounds for the multiarmed bandit problem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.4710&rep=rep1&type=pdf)> by Nicolo Cesa-Bianchi and Paul Fischer, 1998.
+
+### Algorithms
+
+* [POKER] <[Multi-armed bandit algorithms and empirical evaluation]> by Joannes Vermorel and Mehryar Mohri, 2005
+
+* [UCB] <[Finite-time analysis of the multiarmed bandit problem]()> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
+
+* [Pursuit] <[A class of rapidly converging algorithms for learning automata]()> by MAL Thathachar, 1984.
+
 ## RL exploration
 
 ### Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)
@@ -33,11 +52,11 @@ The sharing principle of these references here is for research. If any authors d
 
 ##### PAC-MDP
 
-* <[An empirical evaluation of interval estimation for markov decision processes](https://www.researchgate.net/profile/Michael_Littman2/publication/4114612_An_empirical_evaluation_of_interval_estimation_for_Markov_decision_processes/links/54b66cb70cf24eb34f6d19da.pdf)> by Alexander L Strehl and Michael L Littman, 2004.
+* [MBIE] <[An empirical evaluation of interval estimation for markov decision processes](https://www.researchgate.net/profile/Michael_Littman2/publication/4114612_An_empirical_evaluation_of_interval_estimation_for_Markov_decision_processes/links/54b66cb70cf24eb34f6d19da.pdf)> by Alexander L Strehl and Michael L Littman, 2004.
 
-* <[A theoretical analysis of model- based interval estimation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.1496&rep=rep1&type=pdf)> by Alexander L Strehl and Michael L Littman, 2004.
+* [MBIE, MBIE-EB]<[A theoretical analysis of model-based interval estimation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.1496&rep=rep1&type=pdf)> by Alexander L Strehl and Michael L Littman, 2004.
 
-* <[R-max-a general polynomial time algorithm for near-optimal reinforcement learning](http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf)> by Ronen I Brafman and Moshe Tennenholtz, 2002.
+* [R-max] <[R-max-a general polynomial time algorithm for near-optimal reinforcement learning](http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf)> by Ronen I Brafman and Moshe Tennenholtz, 2002.
 
 * <[Near-optimal reinforcement learning in polynomial time](https://link.springer.com/content/pdf/10.1023/A:1017984413808.pdf)> by Michael Kearns and Satinder Singh, 2002.
 
