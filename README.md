@@ -26,7 +26,12 @@ The sharing principle of these references here is for research. If any authors d
   * [Comparative experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative-experiments)
 
 * [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-exploration)
-  *[Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty))
+  * [Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-exploration-(Intrinsic-Reward-/-Exploration-Bonus-/-Surprise-/-Curiosity-/-Uncertainty))
+  * [Policy based exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Policy-based-exploration)
+  * [Search exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Search-exploration)
+  * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
+
+* [MARL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MARL-exploration)
 
 ## MAB exploration
 
@@ -114,7 +119,7 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Information theory based methods
 
-##### Mutual Information
+##### Mutual information
 
 * <[Variational information maximisation for intrinsically motivated reinforcement learning](https://papers.nips.cc/paper/5668-variational-information-maximisation-for-intrinsically-motivated-reinforcement-learning.pdf)> by Shakir Mohamed and Danilo Jimenez Rezende, 2015.
 
@@ -124,7 +129,7 @@ The sharing principle of these references here is for research. If any authors d
 
 * <[Vime: Variational information maximizing exploration](https://papers.nips.cc/paper/6591-vime-variational-information-maximizing-exploration.pdf)> by Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel, 2016.
 
-#### Prediction / Prediction Error based methods
+#### Prediction / Prediction error based methods
 
 * <[Episodic curiosity through reachability](https://arxiv.org/pdf/1810.02274)> by avinov, Nikolay and Raichuk, Anton and Marinier, Raphael and Vincent, Damien and Pollefeys, Marc and Lillicrap, Timothy and Gelly, Sylvain, 2018.
 
@@ -134,7 +139,7 @@ The sharing principle of these references here is for research. If any authors d
 
 * **[ICM]** <[Curiosity-driven exploration by self-supervised prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf)> by Pathak, Deepak and Agrawal, Pulkit and Efros, Alexei A and Darrell, Trevor, 2017.
 
-### Policy based Exploration
+### Policy based exploration
 
 * <[Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/pdf/1901.09018)> by Du, Simon S and Krishnamurthy, Akshay and Jiang, Nan and Agarwal, Alekh and Dudik, Miroslav and Langford, John, 2019.
 
@@ -148,7 +153,7 @@ The sharing principle of these references here is for research. If any authors d
 
 * <[Taming the noise in reinforcement learning via soft updates](https://arxiv.org/pdf/1512.08562)> by Fox, Roy and Pakman, Ari and Tishby, Naftali, 2015.
 
-### Search Exploration
+### Search exploration
 
 * **[UCT]** <[Monte-Carlo exploration for deterministic planning](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/viewPaper/470)> by Hootan Nakhost and Martin Müller, 2009
 
