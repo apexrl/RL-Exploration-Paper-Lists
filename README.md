@@ -35,7 +35,7 @@ The sharing principle of these references here is for research. If any authors d
 
 * [UCB] <[Finite-time analysis of the multiarmed bandit problem](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
 
-* **[Pursuit]** <[A class of rapidly converging algorithms for learning automata]()> by MAL Thathachar, 1984.
+* **[Pursuit]** <A class of rapidly converging algorithms for learning automata> by MAL Thathachar, 1984.
 
 * **[Beyesian UCB]** <[]()> by , 
 
