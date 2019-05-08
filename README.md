@@ -26,7 +26,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Comparative experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative-experiments)
 
 * [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-exploration)
-  * [Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-exploration-(Intrinsic-Reward-/-Exploration-Bonus-/-Surprise-/-Curiosity-/-Uncertainty))
+  * [Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-exploration-(Intrinsic-Reward-\/-Exploration-Bonus-\/-Surprise-\/-Curiosity-\/-Uncertainty))
   * [Policy based exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Policy-based-exploration)
   * [Search exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Search-exploration)
   * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
