@@ -2,11 +2,15 @@
 
 Paper Collection of Reinforcement Learning Exploration covers exploration of Muti-Arm-Bandit, Reinforcement Learning and Multi-agent Reinforcement Learning. 
 
-Exploration Reinforcement Learning is an important topic in Reinforcement Learning research area, which is to essentially improve the sample efficiency in a MDP setting.
+Exploration Reinforcement Learning is an important topic in Reinforcement Learning research area, which is to essentially improve the sample efficiency in a MDP setting. Naive survey slides and documentation of exploration problem can be seen at [here](http://minghuanliu.com/talks/2019-5-8-Exploration-for-RL).
 
 A simple form of exploration-exploitation dilemma can be seen from the Multi-Arm Bandit problems, and we include MAB papers because many theoretical idea can be drived from MAB studies. 
 
+In the early stage, most exploration study focus on the sample efficiency of specific algorithm, many of them design different exploration bonus to lead agents explore sufficient trajectories.
+
 Recently, most DRL exploration researches are focus on sparse reward settings and the target is a little different with the former studies, however we still classify those methods based on their methodology.
+
+Many learning algorithm also consider the problem od efficient exploration so that we also contain such work.
 
 Papers are sorted by time and classification. Any suggestions and pull requests are welcome.
 
@@ -16,7 +20,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## RL exploration
 
-### Reward based Exploration (Intrinsic Reward / Surprise / Curiosity / Uncertainty)
+### Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)
 
 #### Review Papers
 
@@ -78,7 +82,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Policy based Exploration
 
-* <[Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/pdf/1901.09018)> by Du, Simon S and Krishnamurthy, Akshay and Jiang, Nan and Agarwal, Alekh and Dud{\'\i}k, Miroslav and Langford, John, 2019.
+* <[Provably efficient RL with Rich Observations via Latent State Decoding](https://arxiv.org/pdf/1901.09018)> by Du, Simon S and Krishnamurthy, Akshay and Jiang, Nan and Agarwal, Alekh and Dudik, Miroslav and Langford, John, 2019.
 
 * <[Parameter Space Noise for Exploration](https://arxiv.org/pdf/1706.01905)> by Plappert, Matthias and Houthooft, Rein and Dhariwal, Prafulla and Sidor, Szymon and Chen, Richard Y and Chen, Xi and Asfour, Tamim and Abbeel, Pieter and Andrychowicz, Marcin, 2018.
 
@@ -87,6 +91,11 @@ The sharing principle of these references here is for research. If any authors d
 * <[Monte-Carlo exploration for deterministic planning](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/viewPaper/470)> by Hootan Nakhost and Martin Müller, 2009
 
 * <[Bandit based monte-carlo planning](https://link.springer.com/content/pdf/10.1007/11871842_29.pdf)> by Levente Kocsis and Csaba Szepesvári, 2006
+
+
+### Others
+
+* <[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995)> by Ecoffet, Adrien and Huizinga, Joost and Lehman, Joel and Stanley, Kenneth O and Clune, Jeff, 2019.
 
 ## MARL exploration
 
