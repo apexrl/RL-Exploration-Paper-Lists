@@ -17,15 +17,15 @@ Exploration is a big topic so the paper is just a scratch. Collected papers are 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me (Email: ericliuof97 [AT] gmail.com).
 
 ## Overview
-* [MAB exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB exploration)
-  * [MAB review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB review papers)
-  * [Decaying parameter](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Decaying parameter)
-  * [Provable algorithms](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Provable algorithms)
-  * [Beyesian bandit](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Beyesian bandit)
-  * [Gittin indices](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Gittin indices)
-  * [Comparative experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative experiments)
+* [MAB exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB-exploration)
+  * [MAB review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB-review-papers)
+  * [Decaying parameter](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Decaying-parameter)
+  * [Provable algorithms](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Provable-algorithms)
+  * [Beyesian bandit](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Beyesian-bandit)
+  * [Gittin indices](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Gittin-indices)
+  * [Comparative experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative-experiments)
 
-* [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL exploration)
+* [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-exploration)
   *[Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty))
 
 ## MAB exploration
