@@ -18,6 +18,10 @@ The sharing principle of these references here is for research. If any authors d
 
 ## MAB exploration
 
+### Review Papers
+
+* <[Bandit problems: sequential allocation of experiments (monographs on statistics and applied probability)](https://link.springer.com/content/pdf/10.1007/978-94-015-3711-7.pdf)> by Donald A Berry and Bert Fristedt, 1985.
+
 ### Decaying parameter
 
 * <[A contextual-bandit algorithm for mobile context-aware recommender system](http://www.academia.edu/download/30568507/iconip.pdf)> by Djallel Bouneffouf, Amel Bouzeghoub, and Alda Lopes Gançarski, 2012.
@@ -42,6 +46,15 @@ The sharing principle of these references here is for research. If any authors d
 * **[Beyesian UCB]** <[On bayesian up- per confidence bounds for bandit problems](http://www.jmlr.org/proceedings/papers/v22/kaufmann12/kaufmann12.pdf)> by Emilie Kaufmann, Olivier Cappé, and Aurélien Garivier, 2012.
 
 * <[A modern bayesian look at the multi-armed bandit]>(https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) by Steven L Scott, 2010
+
+#### Gittin Indices
+* <[Bandit processes and dynamic allocation indices](https://core.ac.uk/download/pdf/6519269.pdf)> by John C Gittins, 1979.
+
+* <[Optimal learning and experimentation in bandit problems](https://pdfs.semanticscholar.org/42e2/708e1d6c73ecef5ddc4fd7935a4f055de774.pdf)> by Monica Brezzi and Tze Leung Lai, 2002.
+
+### Comparative Experiments
+
+* **[Interesting]** <[Algorithms for multi-armed bandit problems](https://arxiv.org/pdf/1402.6028)> by Kuleshov, Volodymyr and Precup, Doina, 2014.
 
 ## RL exploration
 
