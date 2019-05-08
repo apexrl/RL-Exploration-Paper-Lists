@@ -20,35 +20,35 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Review Papers
 
-* <Formal Theory of Creativity, Fun, and Intrinsic Motivation (1990-2010)> by Jürgen Schmidhuber, 2010.
+* <[Formal Theory of Creativity, Fun, and Intrinsic Motivation (1990-2010)](https://www.ece.uvic.ca/~bctill/papers/ememcog/Schmidhuber_2010.pdf)> by Jürgen Schmidhuber, 2010.
 
-* <What is intrinsic motivation? A typology of computational approaches> by Pierre-Yves Oudeyer and Frederic Kaplan, 2007.
+* <[What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007)> by Pierre-Yves Oudeyer and Frederic Kaplan, 2007.
 
 
 #### Counts based methods
 
 ##### PAC-MDP
 
-* <An empirical evaluation of interval estimation for markov decision processes> by Alexander L Strehl and Michael L Littman, 2004.
+* <[An empirical evaluation of interval estimation for markov decision processes](https://www.researchgate.net/profile/Michael_Littman2/publication/4114612_An_empirical_evaluation_of_interval_estimation_for_Markov_decision_processes/links/54b66cb70cf24eb34f6d19da.pdf)> by Alexander L Strehl and Michael L Littman, 2004.
 
-* <A theoretical analysis of model- based interval estimation.> by Alexander L Strehl and Michael L Littman, 2004.
+* <[A theoretical analysis of model- based interval estimation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.1496&rep=rep1&type=pdf)> by Alexander L Strehl and Michael L Littman, 2004.
 
-* <R-max-a general polynomial time algorithm for near-optimal reinforcement learning> by Ronen I Brafman and Moshe Tennenholtz, 2002.
+* <[R-max-a general polynomial time algorithm for near-optimal reinforcement learning](http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf)> by Ronen I Brafman and Moshe Tennenholtz, 2002.
 
-* <Near-optimal reinforcement learning in polynomial time> by Michael Kearns and Satinder Singh, 2002.
+* <[Near-optimal reinforcement learning in polynomial time](https://link.springer.com/content/pdf/10.1023/A:1017984413808.pdf)> by Michael Kearns and Satinder Singh, 2002.
 
-* <Efficient model-based exploration> by Marco Wiering and Jürgen Schmidhuber, 1998.
+* <[Efficient model-based exploration](https://dspace.library.uu.nl/bitstream/handle/1874/25440/Wiering_98_efficientmodelbased.pdf?sequence=1)> by Marco Wiering and Jürgen Schmidhuber, 1998.
 
 
 ##### Beyesian Reinforcement Learning
 
-* <Near-bayesian exploration in polynomial time> by J Zico Kolter and Andrew Y Ng, 2009.
+* <[Near-bayesian exploration in polynomial time](http://robotics.stanford.edu/~ang/papers/icml09-NearBayesianExplorationPolynomialTime-full.pdf)> by J Zico Kolter and Andrew Y Ng, 2009.
 
 ##### Psudo Count
 
-* <Unifying count-based exploration and intrinsic motivation> by Marc Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos, 2016.
+* <[Unifying count-based exploration and intrinsic motivation](http://papers.nips.cc/paper/6383-unifying-count-based-exploration-and-intrinsic-motivation.pdf)> by Marc Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos, 2016.
 
-* <Count-based exploration with neural density models>by Georg Ostrovski, Marc G Bellemare, Aaron van den Oord, and Rémi Munos, 2018
+* <[Count-based exploration with neural density models](https://arxiv.org/pdf/1703.01310)>by Georg Ostrovski, Marc G Bellemare, Aaron van den Oord, and Rémi Munos, 2018
 
 ##### State Representation
 
@@ -62,13 +62,13 @@ The sharing principle of these references here is for research. If any authors d
 
 ##### Mutual Information
 
-* <Variational information maximisation for intrinsically motivated reinforcement learning> by Shakir Mohamed and Danilo Jimenez Rezende, 2015.
+* <[Variational information maximisation for intrinsically motivated reinforcement learning](https://papers.nips.cc/paper/5668-variational-information-maximisation-for-intrinsically-motivated-reinforcement-learning.pdf)> by Shakir Mohamed and Danilo Jimenez Rezende, 2015.
 
-* <An information-theoretic approach to curiosity-driven reinforcement learning> by Susanne Still and Doina Precup, 2012.
+* <[An information-theoretic approach to curiosity-driven reinforcement learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.1588&rep=rep1&type=pdf)> by Susanne Still and Doina Precup, 2012.
 
 ##### Information Gain
 
-* <Vime: Variational information maximizing exploration> by Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel, 2016.
+* <[Vime: Variational information maximizing exploration](https://papers.nips.cc/paper/6591-vime-variational-information-maximizing-exploration.pdf)> by Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel, 2016.
 
 #### Prediction Error based methods
 
