@@ -16,9 +16,21 @@ Exploration is a big topic so the paper is just a scratch. Collected papers are 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me (Email: ericliuof97 [AT] gmail.com).
 
+## Overview
+* [MAB exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB exploration)
+  * [MAB review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB review papers)
+  * [Decaying parameter](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Decaying parameter)
+  * [Provable algorithms](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Provable algorithms)
+  * [Beyesian bandit](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Beyesian bandit)
+  * [Gittin indices](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Gittin indices)
+  * [Comparative experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative experiments)
+
+* [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL exploration)
+  *[Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty))
+
 ## MAB exploration
 
-### Review Papers
+### MAB review papers
 
 * <[Bandit problems: sequential allocation of experiments (monographs on statistics and applied probability)](https://link.springer.com/content/pdf/10.1007/978-94-015-3711-7.pdf)> by Donald A Berry and Bert Fristedt, 1985.
 
@@ -33,34 +45,34 @@ The sharing principle of these references here is for research. If any authors d
 
 * <[Finite-time regret bounds for the multiarmed bandit problem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.4710&rep=rep1&type=pdf)> by Nicolo Cesa-Bianchi and Paul Fischer, 1998.
 
-### Provable Algorithms
+### Provable algorithms
 
-* [POKER] <[Multi-armed bandit algorithms and empirical evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)> by Joannes Vermorel and Mehryar Mohri, 2005
+* **POKER]** <[Multi-armed bandit algorithms and empirical evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)> by Joannes Vermorel and Mehryar Mohri, 2005
 
-* [UCB] <[Finite-time analysis of the multiarmed bandit problem](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
+* **[UCB]** <[Finite-time analysis of the multiarmed bandit problem](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
 
 * **[Pursuit]** <[A class of rapidly converging algorithms for learning automata](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=A+class+of+rapidly+converging+algorithms+for+learning+automata&btnG=)> by MAL Thathachar, 1984.
 
-#### Beyesian Bandit
+#### Beyesian bandit
 
 * **[Beyesian UCB]** <[On bayesian up- per confidence bounds for bandit problems](http://www.jmlr.org/proceedings/papers/v22/kaufmann12/kaufmann12.pdf)> by Emilie Kaufmann, Olivier Cappé, and Aurélien Garivier, 2012.
 
-* <[A modern bayesian look at the multi-armed bandit]>(https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) by Steven L Scott, 2010
+* <[A modern bayesian look at the multi-armed bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf)> by Steven L Scott, 2010.
 
-#### Gittin Indices
+#### Gittin indices
 * <[Bandit processes and dynamic allocation indices](https://core.ac.uk/download/pdf/6519269.pdf)> by John C Gittins, 1979.
 
 * <[Optimal learning and experimentation in bandit problems](https://pdfs.semanticscholar.org/42e2/708e1d6c73ecef5ddc4fd7935a4f055de774.pdf)> by Monica Brezzi and Tze Leung Lai, 2002.
 
-### Comparative Experiments
+### Comparative experiments
 
 * **[Interesting]** <[Algorithms for multi-armed bandit problems](https://arxiv.org/pdf/1402.6028)> by Kuleshov, Volodymyr and Precup, Doina, 2014.
 
 ## RL exploration
 
-### Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)
+### Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)
 
-#### Review Papers
+#### Intrinsic reward review papers
 
 * <[Formal Theory of Creativity, Fun, and Intrinsic Motivation (1990-2010)](https://www.ece.uvic.ca/~bctill/papers/ememcog/Schmidhuber_2010.pdf)> by Jürgen Schmidhuber, 2010.
 
