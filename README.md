@@ -27,6 +27,10 @@ The sharing principle of these references here is for research. If any authors d
 
 * [RL exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-exploration)
   * [Reward based exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-exploration-(Intrinsic-Reward-\/-Exploration-Bonus-\/-Surprise-\/-Curiosity-\/-Uncertainty))
+      * [Intrinsic reward review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Intrinsic-reward-review-papers)
+      * [Counts based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Counts-based-methods)
+      * [Information theory based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Information-theory-based-methods)
+      * [Prediction / Prediction error based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Prediction-\/-Prediction error-based-methods)
   * [Policy based exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Policy-based-exploration)
   * [Search exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Search-exploration)
   * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
