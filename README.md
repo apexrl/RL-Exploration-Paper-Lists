@@ -35,9 +35,13 @@ The sharing principle of these references here is for research. If any authors d
 
 * [UCB] <[Finite-time analysis of the multiarmed bandit problem](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
 
-* **[Pursuit]** <A class of rapidly converging algorithms for learning automata> by MAL Thathachar, 1984.
+* **[Pursuit]** <[A class of rapidly converging algorithms for learning automata](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=A+class+of+rapidly+converging+algorithms+for+learning+automata&btnG=)> by MAL Thathachar, 1984.
 
-* **[Beyesian UCB]** <[]()> by , 
+#### Beyesian Bandit
+
+* **[Beyesian UCB]** <[On bayesian up- per confidence bounds for bandit problems](http://www.jmlr.org/proceedings/papers/v22/kaufmann12/kaufmann12.pdf)> by Emilie Kaufmann, Olivier Cappé, and Aurélien Garivier, 2012.
+
+* <[A modern bayesian look at the multi-armed bandit]>(https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) by Steven L Scott, 2010
 
 ## RL exploration
 
