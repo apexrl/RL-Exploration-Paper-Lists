@@ -74,7 +74,9 @@ The sharing principle of these references here is for research. If any authors d
 
 * <[Vime: Variational information maximizing exploration](https://papers.nips.cc/paper/6591-vime-variational-information-maximizing-exploration.pdf)> by Rein Houthooft, Xi Chen, Yan Duan, John Schulman, Filip De Turck, and Pieter Abbeel, 2016.
 
-#### Prediction Error based methods
+#### Prediction / Prediction Error based methods
+
+* <[Episodic curiosity through reachability](https://arxiv.org/pdf/1810.02274)> by avinov, Nikolay and Raichuk, Anton and Marinier, Raphael and Vincent, Damien and Pollefeys, Marc and Lillicrap, Timothy and Gelly, Sylvain, 2018.
 
 * <[Exploration by random network distillation](https://arxiv.org/pdf/1810.12894.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)> by Burda, Yuri and Edwards, Harrison and Storkey, Amos and Klimov, Oleg, 2018.
 
@@ -91,6 +93,8 @@ The sharing principle of these references here is for research. If any authors d
 * <[Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor](https://arxiv.org/pdf/1801.01290)> by Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey, 2018.
 
 * <[Reinforcement learning with deep energy-based policies](https://arxiv.org/pdf/1702.08165)> by Haarnoja, Tuomas and Tang, Haoran and Abbeel, Pieter and Levine, Sergey, 2017.
+
+* <[Deep exploration via bootstrapped DQN](https://papers.nips.cc/paper/6501-deep-exploration-via-bootstrapped-dqn.pdf)> by Osband, Ian and Blundell, Charles and Pritzel, Alexander and Van Roy, Benjamin, 2016.
 
 * <[Taming the noise in reinforcement learning via soft updates](https://arxiv.org/pdf/1512.08562)> by Fox, Roy and Pakman, Ari and Tishby, Naftali, 2015.
 
