@@ -26,11 +26,11 @@ The sharing principle of these references here is for research. If any authors d
   * [Comparative Experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative-experiments)
 
 * [RL Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-Exploration)
-  * [Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-Exploration-(Intrinsic-Reward-\/-Exploration-Bonus-\/-Surprise-\/-Curiosity-\/-Uncertainty))
+  * [Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-Exploration-(Intrinsic-Reward-\-Exploration-Bonus-\-Surprise-\-Curiosity-\-Uncertainty))
       * [Intrinsic reward review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Intrinsic-reward-review-papers)
       * [Counts based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Counts-based-methods)
       * [Information theory based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Information-theory-based-methods)
-      * [Prediction / Prediction Error based Methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Prediction-\/-Prediction-error-based-methods)
+      * [Prediction / Prediction Error based Methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Prediction-\-Prediction-error-based-methods)
   * [Policy based Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Policy-based-Exploration)
   * [Search Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Search-Exploration)
   * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
@@ -79,7 +79,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## RL Exploration
 
-### Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)
+### Reward based Exploration (Intrinsic Reward \ Exploration Bonus \ Surprise \ Curiosity \ Uncertainty)
 
 #### Intrinsic Reward Review Papers
 
