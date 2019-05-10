@@ -2,7 +2,7 @@
 
 Paper Collection of Reinforcement Learning Exploration covers Exploration of Muti-Arm-Bandit, Reinforcement Learning and Multi-agent Reinforcement Learning. 
 
-Exploration Reinforcement Learning is an important topic in Reinforcement Learning research area, which is to essentially improve the sample efficiency in a MDP setting. Naive survey [slides] and [documentation] of Exploration problem are available.
+Exploration Reinforcement Learning is an important topic in Reinforcement Learning research area, which is to essentially improve the sample efficiency in a MDP setting. Naive survey [Slides](http://minghuanliu.com/files/2019-5-8-Exploration-for-RL.pdf) and [Document(Chinese)](http://minghuanliu.com/files/exploration-talk.pdf) of Exploration problem are available.
 
 A simple form of Exploration-exploitation dilemma can be seen from the Multi-Arm Bandit problems, and we include MAB papers because many theoretical idea can be drived from MAB studies. 
 
