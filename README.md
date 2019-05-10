@@ -115,7 +115,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ##### State Representation
 
-* <[Contingency-aware Exploration in reinforcement learning](https://arxiv.org/pdf/1811.01483)> by Choi, Jongwook and Guo, Yijie and Moczulski, Marcin and Oh, Junhyuk and Wu, Neal and Norouzi, Mohammad and Lee, Honglak, 2018.
+* **[CoEX]** <[Contingency-aware Exploration in reinforcement learning](https://arxiv.org/pdf/1811.01483)> by Choi, Jongwook and Guo, Yijie and Moczulski, Marcin and Oh, Junhyuk and Wu, Neal and Norouzi, Mohammad and Lee, Honglak, 2018.
 
 * <[# Exploration: A study of count-based Exploration for deep reinforcement learning](https://papers.nips.cc/paper/6868-Exploration-a-study-of-count-based-Exploration-for-deep-reinforcement-learning.pdf)> by Haoran Tang, Rein Houthooft, Davis Foote, Adam Stooke, OpenAI Xi Chen, Yan Duan, John Schulman, Filip DeTurck, and Pieter Abbeel, 2017.
 
