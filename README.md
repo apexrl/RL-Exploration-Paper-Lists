@@ -12,7 +12,7 @@ Recently, most DRL Exploration researches are focus on sparse reward settings an
 
 Many learning algorithm also consider the problem of efficient Exploration so that we also contain such work.
 
-Exploration is a big topic so the paper is just a scratch. Collected papers are sorted by time and classification. Any suggestions and pull requests are welcome.
+Exploration is a big topic so this paper list is just a scratch. Collected papers are sorted by time and classification. Any suggestions and pull requests are welcome.
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me (Email: ericliuof97 [AT] gmail.com).
 
