@@ -98,7 +98,7 @@ The sharing principle of these references here is for research. If any authors d
 
 * **[R-max]** <[R-max-a general polynomial time algorithm for near-optimal reinforcement learning](http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf)> by Ronen I Brafman and Moshe Tennenholtz, 2002.
 
-* **[E3]**<[Near-optimal reinforcement learning in polynomial time](https://link.springer.com/content/pdf/10.1023/A:1017984413808.pdf)> by Michael Kearns and Satinder Singh, 2002.
+* **[E3]** <[Near-optimal reinforcement learning in polynomial time](https://link.springer.com/content/pdf/10.1023/A:1017984413808.pdf)> by Michael Kearns and Satinder Singh, 2002.
 
 * **[MBIE]** <[Efficient model-based Exploration](https://dspace.library.uu.nl/bitstream/handle/1874/25440/Wiering_98_efficientmodelbased.pdf?sequence=1)> by Marco Wiering and Jürgen Schmidhuber, 1998.
 
