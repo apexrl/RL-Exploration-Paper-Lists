@@ -92,9 +92,9 @@ The sharing principle of these references here is for research. If any authors d
 
 ##### PAC-MDP
 
-* **[MBIE]** <[An empirical evaluation of interval estimation for markov decision processes](https://www.researchgate.net/profile/Michael_Littman2/publication/4114612_An_empirical_evaluation_of_interval_estimation_for_Markov_decision_processes/links/54b66cb70cf24eb34f6d19da.pdf)> by Alexander L Strehl and Michael L Littman, 2004.
-
 * **[MBIE, MBIE-EB]** <[A theoretical analysis of model-based interval estimation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.1496&rep=rep1&type=pdf)> by Alexander L Strehl and Michael L Littman, 2004.
+
+* **[MBIE]** <[An empirical evaluation of interval estimation for markov decision processes](https://www.researchgate.net/profile/Michael_Littman2/publication/4114612_An_empirical_evaluation_of_interval_estimation_for_Markov_decision_processes/links/54b66cb70cf24eb34f6d19da.pdf)> by Alexander L Strehl and Michael L Littman, 2004.
 
 * **[R-max]** <[R-max-a general polynomial time algorithm for near-optimal reinforcement learning](http://www.jmlr.org/papers/volume3/brafman02a/brafman02a.pdf)> by Ronen I Brafman and Moshe Tennenholtz, 2002.
 
