@@ -69,9 +69,10 @@ The sharing principle of these references here is for research. If any authors d
 * <[A modern bayesian look at the multi-armed bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf)> by Steven L Scott, 2010.
 
 #### Gittin Indices
-* <[Bandit processes and dynamic allocation indices](https://core.ac.uk/download/pdf/6519269.pdf)> by John C Gittins, 1979.
 
 * <[Optimal learning and experimentation in bandit problems](https://pdfs.semanticscholar.org/42e2/708e1d6c73ecef5ddc4fd7935a4f055de774.pdf)> by Monica Brezzi and Tze Leung Lai, 2002.
+
+* <[Bandit processes and dynamic allocation indices](https://core.ac.uk/download/pdf/6519269.pdf)> by John C Gittins, 1979.
 
 ### Comparative Experiments
 
