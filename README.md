@@ -56,7 +56,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Provable Algorithms
 
-* **POKER]** <[Multi-armed bandit algorithms and empirical evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)> by Joannes Vermorel and Mehryar Mohri, 2005
+* **[POKER]** <[Multi-armed bandit algorithms and empirical evaluation](https://link.springer.com/content/pdf/10.1007/11564096_42.pdf)> by Joannes Vermorel and Mehryar Mohri, 2005
 
 * **[UCB]** <[Finite-time analysis of the multiarmed bandit problem](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)> by Peter Auer, Nicolo Cesa-Bianchi, and Paul Fischer, 2002.
 
