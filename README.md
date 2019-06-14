@@ -137,7 +137,10 @@ The sharing principle of these references here is for research. If any authors d
 
 #### Prediction / Prediction error based Methods
 
-* <[Episodic curiosity through reachability](https://arxiv.org/pdf/1810.02274)> by avinov, Nikolay and Raichuk, Anton and Marinier, Raphael and Vincent, Damien and Pollefeys, Marc and Lillicrap, Timothy and Gelly, Sylvain, 2018.
+
+* <[Self-Supervised Exploration via Disagreement](https://pathak22.github.io/exploration-by-disagreement/resources/icml19.pdf)> by Deepak Pathak, Dhiraj Gandhi and Abhinav Gupta, 2019.
+
+* <[Episodic curiosity through reachability](https://arxiv.org/pdf/1810.02274)> by Savinov, Nikolay and Raichuk, Anton and Marinier, Raphael and Vincent, Damien and Pollefeys, Marc and Lillicrap, Timothy and Gelly, Sylvain, 2018.
 
 * **[RND]** <[Exploration by random network distillation](https://arxiv.org/pdf/1810.12894.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)> by Burda, Yuri and Edwards, Harrison and Storkey, Amos and Klimov, Oleg, 2018.
 
