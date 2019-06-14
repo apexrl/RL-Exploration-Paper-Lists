@@ -36,7 +36,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
 
 * [MARL Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MARL-Exploration)
-  * [Coordinated Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Coordinate-Exploration)
+  * [Coordinated Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Coordinated-Exploration)
 
 ## MAB Exploration
 
