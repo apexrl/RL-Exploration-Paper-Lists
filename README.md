@@ -36,6 +36,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
 
 * [MARL Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MARL-Exploration)
+  * [Coordinated Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Coordinate-Exploration)
 
 ## MAB Exploration
 
@@ -174,3 +175,17 @@ The sharing principle of these references here is for research. If any authors d
 * <[CLEANing the reward: counterfactual actions to remove exploratory action noise in multiagent learning](http://irll.eecs.wsu.edu/wp-content/papercite-data/pdf/2014iat-holmesparker.pdf)> by HolmesParker C, Taylor M E, Agogino A, et al. AAMAS, 2014.
 
 * <[Classes of multiagent q-learning dynamics with epsilon-greedy Exploration](http://icml2010.haifa.il.ibm.com/papers/191.pdf)> by Wunder M, Littman M L, Babes M. ICML, 2010.
+
+## Coordinated Exploration
+
+* <[Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.12127)> by Shariq Iqbal, Fei Sha, 2019.
+
+* <[Coordinated Versus Decentralized Exploration In Multi-Agent Multi-Armed Bandits](https://arxiv.org/abs/1905.12127)> by Mithun Chakraborty, Kai Yee Phoebe Chua, Sanmay Das, Brendan Juba, 2017.
+
+* <[Multi-Robot Coordination for Space Exploration](https://pdfs.semanticscholar.org/bd5a/9db1b2643cf1e7cdf6be43d8e64dc535c1ce.pdf)> by Logan Yliniemi and Adrian Agogino􏰐 and Kagan Tumer, 2013.
+
+* <[Coordinated Multi-Agent Exploration](http://ceur-ws.org/Vol-408/Paper08.pdf)> by Abraham Sanchez L. and Alfredo Toriz P., 2008.
+
+* <[Coordinated exploration in multi-agent reinforcement learning: an application to load-balancing](https://www.researchgate.net/publication/221454629_Coordinated_exploration_in_multi-agent_reinforcement_learning_an_application_to_load-balancing)> by Katja Verbeeck, Ann Nowe and Karl Tuyls, 2005.
+
+
