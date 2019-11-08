@@ -17,26 +17,26 @@ Exploration is a big topic so this paper list is just a scratch. Collected paper
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me (Email: ericliuof97 [AT] gmail.com).
 
 ## Overview
-* [MAB Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB-Exploration)
-  * [MAB Review Papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MAB-review-papers)
-  * [Decaying Parameter](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Decaying-parameter)
-  * [Provable Algorithms](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Provable-algorithms)
-  * [Beyesian Bandit](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Beyesian-bandit)
-  * [Gittin Indices](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Gittin-indices)
-  * [Comparative Experiments](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Comparative-experiments)
+* [MAB Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#MAB-Exploration)
+  * [MAB Review Papers](https://github.com/apexrl/RL-Exploration-Paper-Lists#MAB-review-papers)
+  * [Decaying Parameter](https://github.com/apexrl/RL-Exploration-Paper-Lists#Decaying-parameter)
+  * [Provable Algorithms](https://github.com/apexrl/RL-Exploration-Paper-Lists#Provable-algorithms)
+  * [Beyesian Bandit](https://github.com/apexrl/RL-Exploration-Paper-Lists#Beyesian-bandit)
+  * [Gittin Indices](https://github.com/apexrl/RL-Exploration-Paper-Lists#Gittin-indices)
+  * [Comparative Experiments](https://github.com/apexrl/RL-Exploration-Paper-Lists#Comparative-experiments)
 
-* [RL Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#RL-Exploration)
-  * [Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Reward-based-Exploration-(Intrinsic-Reward-\\-Exploration-Bonus-\\-Surprise-\\-Curiosity-\\-Uncertainty))
+* [RL Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#RL-Exploration)
+  * [Reward based Exploration (Intrinsic Reward / Exploration Bonus / Surprise / Curiosity / Uncertainty)](https://github.com/apexrl/RL-Exploration-Paper-Lists#reward-based-exploration-intrinsic-reward--exploration-bonus--surprise--curiosity--uncertainty))
       * [Intrinsic reward review papers](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Intrinsic-reward-review-papers)
       * [Counts based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Counts-based-methods)
       * [Information theory based methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Information-theory-based-methods)
       * [Prediction / Prediction Error based Methods](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Prediction-\-Prediction-error-based-methods)
-  * [Policy based Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Policy-based-Exploration)
-  * [Search Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Search-Exploration)
-  * [Others](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Others)
+  * [Policy based Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#Policy-based-Exploration)
+  * [Search Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#Search-Exploration)
+  * [Others](https://github.com/apexrl/RL-apexrl-Paper-Lists#Others)
 
-* [MARL Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#MARL-Exploration)
-  * [Coordinated Exploration](https://github.com/Ericonaldo/RL-Exploration-Paper-Lists#Coordinated-Exploration)
+* [MARL Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#MARL-Exploration)
+  * [Coordinated Exploration](https://github.com/apexrl/RL-Exploration-Paper-Lists#Coordinated-Exploration)
 
 ## MAB Exploration
 
